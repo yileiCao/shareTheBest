@@ -12,7 +12,7 @@ Automatic photo selection has been an actively studied area in computer vision r
 3. We explored the relationship between IAQA networks and image retouching networks. We proposed a new method to evaluate the performance of an image re- touching network using IAQA networks.
 
 ## Framework
-![System Framework](/img/IMAGE2-1.png)
+![System Framework](/img/IMAGE2-1.png){width=50%}
 
 
 ## Demo Usage
