@@ -26,9 +26,13 @@ python3 logic.py
 ```
 
 ## IAQA Training
-After downloading AVA benchmark, NIMA-train.ipynb can be run to train IAQA models based on [PyTorch NIMA](https://github.com/truskovskiyk/nima.pytorch).
+After downloading [AVA benchmark](https://github.com/mtobeiyf/ava_downloader), NIMA-train.ipynb can be run to train IAQA models based on [PyTorch NIMA](https://github.com/truskovskiyk/nima.pytorch).
+Trained model parameters can be found in model_parameter_iaqa
 
-## Image Enhancement(In progress)
+## Image Enhancement
+MIT-Adobe-fiveK dataset can be downloaded with image_retouching/download_5k.py after download txt file from [MIT-5K](https://data.csail.mit.edu/graphics/fivek/)
+image_retouching/lut/lut_eval.py is to enhance image folder with 3D-LUT model
+image_retouching/csrnet/csr_eval.py is to enhance image folder with CSRNet model
 
 ## Acknowledgements
 - [PyTorch NIMA](https://github.com/truskovskiyk/nima.pytorch)
