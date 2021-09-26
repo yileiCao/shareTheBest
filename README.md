@@ -24,6 +24,6 @@
 <h2>Image Enhancement(In progress)</h2>
 
 <h2>Acknowledgements</h2>
-[PyTorch NIMA](https://github.com/truskovskiyk/nima.pytorch)
-[Image-Adaptive-3DLUT](https://github.com/HuiZeng/Image-Adaptive-3DLUT#image-adaptive-3dlut)
-[CSRNet](https://github.com/hejingwenhejingwen/CSRNet)
+- [PyTorch NIMA](https://github.com/truskovskiyk/nima.pytorch)
+- [Image-Adaptive-3DLUT](https://github.com/HuiZeng/Image-Adaptive-3DLUT#image-adaptive-3dlut)
+- [CSRNet](https://github.com/hejingwenhejingwen/CSRNet)
