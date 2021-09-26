@@ -25,7 +25,8 @@ cd PyQt_demo
 python3 logic.py
 ```
 
-## IAQA Training(In progress)
+## IAQA Training
+After downloading AVA benchmark, NIMA-train.ipynb can be run to train IAQA models based on [PyTorch NIMA](https://github.com/truskovskiyk/nima.pytorch).
 
 ## Image Enhancement(In progress)
 
