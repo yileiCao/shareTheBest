@@ -55,7 +55,7 @@ def image_file_to_tensor(image_path):
 '''
 
 def main():
-    csr_retouch("../model_parameter/csrnet.pth", ".../image_folder", ".../save_folder)
+    csr_retouch("../../model_parameter/csrnet.pth", ".../image_folder", ".../save_folder)
 
 
 if __name__ == "__main__":
