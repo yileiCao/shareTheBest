@@ -28,7 +28,7 @@ python3 logic.py
 ## IAQA Training
 After downloading [AVA benchmark](https://github.com/mtobeiyf/ava_downloader), NIMA-train.ipynb can be run to train IAQA models based on [PyTorch NIMA](https://github.com/truskovskiyk/nima.pytorch).
 
-Trained model parameters can be found in model_parameter_iaqa
+Trained model parameters can be found in model_parameter/para_iaqa
 
 ## Image Enhancement
 MIT-Adobe-fiveK dataset can be downloaded with image_retouching/download_5k.py after download txt file from [MIT-5K](https://data.csail.mit.edu/graphics/fivek/)
