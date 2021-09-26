@@ -11,11 +11,19 @@ Automatic photo selection has been an actively studied area in computer vision r
 
 ## Demo Usage
 ### Requirements
-Python3, requirements.txt
+Python3, Requirements.txt
 
 ### Build
-
+#### 3D-LUT trilinear package ([More details](https://github.com/HuiZeng/Image-Adaptive-3DLUT#image-adaptive-3dlut))
+```bash
+cd trilinear_cpp
+sh setup.sh
+```
 ### Run
+```bash
+cd PyQt_demo
+python3 logic.py
+```
 
 ## IAQA Training(In progress)
 
