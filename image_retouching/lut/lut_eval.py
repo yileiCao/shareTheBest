@@ -29,7 +29,7 @@ def retouch_lut_from_file(path_to_model_state, path_to_old_images, path_to_new_i
     return 1
 
 
-def retouch_lut(images, path_to_model_state="../model_parameter"):
+def retouch_lut(images, path_to_model_state="../../model_parameter"):
     cuda = True if torch.cuda.is_available() else False
     Tensor = torch.cuda.FloatTensor if cuda else torch.FloatTensor
     lut0, lut1, lut2, classifier, trilinear_ = load_model(path_to_model_state, cuda)
